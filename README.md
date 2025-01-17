@@ -4,9 +4,13 @@ In-silico Analysis of Phytochemicals Targeting HPV-16 and HPV-18 Oncoproteins fo
 
 Human papillomavirus (HPV) infections are the primary causative agents of various types of cancers, including cervical, anal, penile, and oropharyngeal cancers. These infections are highly prevalent, with over 84.6% and 91.3% sexually active women and men respectively are expected to contract HPV at some point in their lives. Among the various types of HPV, HPV-16 and HPV-18 are particularly notorious, being high-risk subtypes responsible for approximately over 79% of cervical cancer. Current treatments for HPV-associated conditions include a variety of methods but these treatments often result in recurrence and can be painful and expensive. Due to this, there is a critical need to explore alternative therapeutic approaches that can effectively target the HPV oncoproteins and contribute to the management of HPV-related cancers in a more efficient and less harmful manner. _Allium sativum_, commonly known as garlic, has been used in traditional medicine for centuries due to its wide range of therapeutic properties, including antimicrobial, antiviral, and anti-inflammatory effects. Various studies have demonstrated that garlic possesses antiviral activity against HPV, but the specific bioactive compounds within garlic that exert this antiviral effect, particularly against HPV-16 and HPV-18 oncoproteins, have not been thoroughly investigated. In this study, we utilized molecular modelling approaches - Molecular Docking, Lipinski's Ro5, Pharmacokinetics analysis, Density functional theory, and Molecular Dynamic Simulation - to examine the inhibitory characteristics of the bioactive compouds derived from Allium sativum on the HPV-16 and HPV-18 Oncoproteins. 
 
-#Objective
-The main objective of this study is to identify and assess the phytochemicals derived from _allium sativum_ in inhibiting HPV-16 and HPV-18 oncoproteins using in-silico approaches.
-
 # Table of Content
 1. [Overview](#Overview)
-2. [Objective](#Objectives)
+2. [Objective](#Objective)
+3. [Methodology](#Methodology)
+
+# Objective
+The main objective of this study is to identify and assess the phytochemicals derived from _allium sativum_ in inhibiting HPV-16 and HPV-18 oncoproteins using in-silico approaches.
+
+# Methodology
+
